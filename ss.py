@@ -1,1 +1,1 @@
-print"gjh"
+print('tu')
